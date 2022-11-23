@@ -1,4 +1,5 @@
 # A Robust Infrared Small Target Detection Method Jointing Multiple Information and Noise Prediction：Algorithm and Benchmark
+The article has been submitted to IEEE Transactions on Geoscience and Remote Sending
 
 ## Algorithm Introduction
 we propose in this paper a robust infrared small target detection method jointing multiple information and noise prediction, named MINP-Net.
